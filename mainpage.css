@@ -134,6 +134,7 @@ marquee ul li a {
 .slider {
     margin-top: 50px;
     display: block;
+    max-height: 600px;;
 }
 
 .belowSlider {
@@ -174,4 +175,9 @@ marquee ul li a {
     .slider {
         display: none;
     }
+}
+
+.convo2 {
+    width: 120%; /* Adjust as needed */
+    height: auto;
 }
